@@ -1,6 +1,6 @@
-# MTH209 Project
+# MTH209 Project by Group 16
 
-## Team Members (Group 16)
+## Team Members
 - 200738 Pulkit Dhamija
 - 208160499 Kaushik Raj Nadar
 - 200890 Satmeet Singh Saluja
